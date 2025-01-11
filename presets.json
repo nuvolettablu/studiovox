@@ -1,6 +1,16 @@
 {
-"green":"?chroma",
-"1": "webcam&welcome=Welcome to VDO.Ninja",
-"4k": "webcam&quality=4k&outboundbitrate=12000",
-"versus": "remote&label&quality&maxbandwidth&view&proaudio"
+"red": "?r=studiovox&hash=7ed3&tips&controls=0&audiocodec=red&oab=128&al=20&audiohint=music&codec=vp9&mvb=1200&ag=0&ec=0&dn=0&q=2&hidetranslate&np&cb=1&hidehome&bc&hh&clear&showlist=1&ac=1&l=Red&hand&vd=0&np",
+"studio": "?dir=studiovox&password=1234567890&sd&q=1&audiocodec=opus&oab=48&al=20&ls=StudioVOX&ag=0&ec=0&dn=0&codec=vp9&fr=25&trb=600&noscaling&hint=motion&recordfolder=auphonic&od=speaker_a_daw_a_virtual_&ad=daw_a_speaker_a_virtual_&vd=usb_video_534d_2109_&ssfps=30&screensharevideoonly&screensharecontenthint=motion&screenshareaspectratio=1.777777&sstype=1&displaysurface=window&screensharequality=1&screensharebitrate=600&h=690",
+"studioclient": "?dir=studiovox&password=1234567890&sd&q=1&audiocodec=opus&oab=48&al=20&ls=StudioVOX&ag=0&ec=0&dn=0&codec=vp9&fr=25&trb=600&noscaling&hint=motion&recordfolder=auphonic&od=client_a_daw_a_virtual_&ad=daw_a_client_a_virtual_&vd=usb_video_534d_2109_&ssfps=30&screensharevideoonly&screensharecontenthint=motion&screenshareaspectratio=1.777777&sstype=1&displaysurface=window&screensharequality=1&screensharebitrate=600&h=690&meshcast=video&meshcastbitrate=800",
+"client": "?r=studiovox&hash=7ed3&tips&controls=0&hideusermenu&controlbarspace&border=5&bordercolor=999999&hold&signalmeter&audiocodec=opus&oab=16&al=20&ag=0&ec=1&dn=1&comp&cb=0&bc&codec=vp9&audiohint=music&hidetranslate&np&hidehome&hh&bc&clear&showlist=1&ls=Client&miconly&consent&ac&ssbitrate=600",
+"oldspeaker": "?r=studiovox&hash=7ed3&tips&controls=0&audiocodec=red&oab=128&al=20&audiohint=music&codec=vp9&mvb=600&ag=0&ec=0&dn=0&q=2&hidetranslate&np&cb=0&hidehome&bc&hh&clear&showlist=0&ac=1&l=Speaker&miconly",
+"speaker2": "?r=studiovox&hash=7ed3&tips&controls=0&audiocodec=red&oab=128&al=20&audiohint=music&codec=vp9&mvb=600&proaudio&q=2&hidetranslate&np&cb=0&hidehome&bc&hh&clear&showlist=0&l=Speaker&miconly",
+"redlink": "?r=studiovox&tips&controls=0&audiocodec=red&oab=128&al=20&audiohint=music&codec=vp9&mvb=1200&ag=0&ec=0&dn=0&q=2&hidetranslate&np&cb=1&hidehome&bc&hh&clear&showlist=1&ac=1&l=Red&hand&vd=0&np",
+"studiolink": "?dir=studiovox&sd&q=1&audiocodec=opus&oab=48&al=20&ac=1&ls=StudioVOX&ag=0&ec=0&dn=0&codec=vp9&fr=25&mvb=1200&noscaling&hint=motion",
+"studiolink2": "?dir=studiovox&sd&q=1&audiocodec=red&oab=48&al=20&ac=1&ls=StudioVOX&codec=vp9&fr=25&mvb=1200&noscaling&hint=motion&recordfolder=auphonic&proaudio&audiobitrate=128&od=speaker_a_daw_a_virtual_&ad=daw_a_speaker_a_virtual_&vd=usb_video_534d_2109_",
+"clientlink": "?r=studiovox&tips&controls=0&audiocodec=opus&oab=16&al=20&ag=0&ec=1&dn=1&cb=0&bc&clear&showlist=1&ac=1&ls=Client&hidehome&hh&np&miconly",
+"clientlink2": "?r=studiovox&tips&controls=0&audiocodec=opus&oab=16&al=20&ag=0&ec=1&dn=1&cb=0&bc&clear&showlist=1&ac=1&ls=Client&hidehome&hh&np&miconly&meshcast",
+"speaker": "?r=studiovox&hash=7ed3&tips&controls=0&hideusermenu&controlbarspace&border=5&bordercolor=999999&hold&signalmeter&audiocodec=opus&oab=128&codec=vp9&audiohint=music&proaudio&hidetranslate&np&cb=0&hidehome&hh&bc&clear&showlist=0&l=Speaker&miconly&consent&ac&ssbitrate=600",
+"teststudio": "?dir=studiovox&password=1234567890&sd&meshcast=video&meshcastbitrate=1500&q=1&audiocodec=red&oab=48&al=20&ls=StudioVOX&controlbarspace&codec=vp9&fr=25&mvb=1200&noscaling&hint=motion&recordfolder=auphonic&proaudio&audiobitrate=128&od=speaker_a_daw_a_virtual_&ad=daw_a_speaker_a_virtual_&vd=usb_video_534d_2109_&meter",
+"speakerlink": "?r=studiovox&tips&controls=0&audiocodec=red&oab=128&al=20&audiohint=music&codec=vp9&mvb=600&ag=0&ec=0&dn=0&q=2&hidetranslate&np&cb=0&hidehome&bc&hh&clear&showlist=0&ac=1&miconly"
 }
